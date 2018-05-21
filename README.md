@@ -18,6 +18,9 @@ If you prefer MOOCs, then refer the following:
 
 For any reference on C++ libraries, refer to [cppreference][reference].
 
+Some of the basic programs along with self-explanatory comments to help you get started:
+1. [Program to add two integers](GettingStarted/sumTwoNumbers.cpp)
+
 [geeksforgeeks]: https://www.geeksforgeeks.org/c-plus-plus/
 [learncpp]: http://www.learncpp.com/
 [codesdope]: https://www.codesdope.com/cpp-introduction/
