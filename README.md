@@ -1,33 +1,23 @@
 # All about C++
 
+If you are new to git and github, to make your first contributions, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
+
 ### Getting started (for beginners):
 If you prefer reading, then these are some of the curated resources you can refer:
-- [Geeks for Geeks: C++ Programming Language][geeksforgeeks]
-- [CodesDope: Passion Matters, Not Age][codesdope]
-- [TutorialsPoint: Learn C++, Simply Easy Learning][TutorialsPoint]
-- [learncpp: Tutorials to help you master C++][learncpp]
-- [cplusplus.com: C++ Tutorials][cplusplus]
+- [Geeks for Geeks: C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
+- [CodesDope: Passion Matters, Not Age](https://www.codesdope.com/cpp-introduction/)
+- [TutorialsPoint: Learn C++, Simply Easy Learning](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [learncpp: Tutorials to help you master C++](http://www.learncpp.com/)
+- [cplusplus.com: C++ Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
 If you prefer youtube videos, then these are the best ones out there:
-- [Programming in C++ Playlist][youtube1]
+- [Programming in C++ Playlist](https://www.youtube.com/playlist?list=PLdFUT7614Oi6Jb5aqm87gZu_Jqw1igAGB)
 
 If you prefer MOOCs, then refer the following:
-- [edX: Intro to C++][edX]
-- [NPTEL: Programming in C++][nptel]
-- [Udemy: C++ Tutorial for Complete Beginners][udemy]
+- [edX: Intro to C++](https://www.edx.org/course/introduction-c-microsoft-dev210x-5)
+- [NPTEL: Programming in C++](http://nptel.ac.in/courses/106105151/)
+- [Udemy: C++ Tutorial for Complete Beginners](https://www.udemy.com/free-learn-c-tutorial-beginners/)
 
-For any reference on C++ libraries, refer to [cppreference][reference].
+For any reference on C++ libraries, refer to [cppreference](http://en.cppreference.com/w/cpp).
 
-Some of the basic programs along with self-explanatory comments to help you get started:
-1. [Program to add two integers](GettingStarted/sumTwoNumbers.cpp)
-
-[geeksforgeeks]: https://www.geeksforgeeks.org/c-plus-plus/
-[learncpp]: http://www.learncpp.com/
-[codesdope]: https://www.codesdope.com/cpp-introduction/
-[cplusplus]: http://www.cplusplus.com/doc/tutorial/
-[TutorialsPoint]: https://www.tutorialspoint.com/cplusplus/index.htm
-[edX]: https://www.edx.org/course/introduction-c-microsoft-dev210x-5
-[nptel]: http://nptel.ac.in/courses/106105151/
-[udemy]: https://www.udemy.com/free-learn-c-tutorial-beginners/
-[youtube1]: https://www.youtube.com/playlist?list=PLdFUT7614Oi6Jb5aqm87gZu_Jqw1igAGB
-[reference]: http://en.cppreference.com/w/cpp
+You can go through the [Getting Started](GettingStarted/) folder to read and practice some of the basic programs of C++ and also contribute your own programs (if similar program not already added by someone else).
